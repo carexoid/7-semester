@@ -1,2 +1,2 @@
-# semester-5
-My 5-th semester labs
+# 7-semester
+My 7-th semester labs
